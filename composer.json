@@ -1,0 +1,12 @@
+{
+    "name": "wangjr/sdonkey",
+    "description": "php lib",
+    "type": "library",
+    "authors": [
+        {
+            "name": "wangjr",
+            "email": "wangjr129@163.com"
+        }
+    ],
+    "require": {}
+}
